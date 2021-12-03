@@ -1,0 +1,42 @@
+body{
+	width: 99%;
+	display: flex;
+	background-color: cyan;
+}
+.zogadi a{
+  text-decoration:none;
+  display: inline-block;
+  font-size: 20px;
+}
+.history{
+	margin-top: 58px;
+	width: 684px;
+	    margin-left: -73%;
+
+}
+.build p{
+width: 686px;
+    margin-left: -558px;
+    margin-top: 27%;
+
+
+}
+.build img{
+	margin-left: -500px;
+}
+.works p{
+	width: 686px;
+    margin-left: -522px;
+    margin-top: 28%;
+  }
+  .works img{
+  	margin-left: 1%;
+  	width: 500px;
+  }
+  .time p{
+  	margin-top: 1%;
+  }
+  .end p{
+  	    margin-top: 0%;
+    margin-left: 1%;
+    }
